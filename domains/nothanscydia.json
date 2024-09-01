@@ -1,1 +1,11 @@
-
+{
+  "description": "A website abt me",
+  "repo": "https://github.com/nothanscydia",
+  "owner": {
+    "username": "NotHansCYDIa",
+    "email": "nothanscydia@proton.me"
+  },
+  "record": {
+    "URL": ""
+  }
+}
